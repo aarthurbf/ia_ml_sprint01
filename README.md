@@ -3,6 +3,14 @@
 
 ---
 
+### Equipe
+
+| Nome | RM |
+|---|---|
+| *Arthur Bobadilla Franchi* | RM 555056 |
+| *Luan Orlandelli Ramos* | RM 554747 |
+| *Jorge Luiz* | RM 554418 |
+
 ## 📋 Visão Geral
 
 Este projeto foi desenvolvido como parte de um Sprint de Inteligência Artificial e Machine Learning em parceria com a Ford e a FIAP. O objetivo central é resolver um problema de **assimetria de informação no ponto de venda**: no momento da compra do veículo, a concessionária não sabe como o cliente se comportará em relação à manutenção futura na rede oficial.
@@ -26,19 +34,6 @@ Base 2 (Momento da Compra)
 ```
 
 ---
-
-## 📁 Estrutura do Projeto
-
-```
-ford-sprint-ia-ml/
-│
-├── Ford_Sprint_Parte1_EDA.ipynb              # Parte 1 — EDA e Pré-processamento
-├── Ford_Sprint_Parte2_Segmentacao.ipynb      # Parte 2 — Segmentação Comportamental
-├── Ford_Sprint_Parte3_Classificacao.ipynb    # Parte 3 — Classificação Preditiva
-├── ford_segmentos_kmeans.csv                 # Dataset rotulado (output da Etapa 1)
-├── Ford_Relatorio_Executivo.pdf              # Relatório executivo completo
-└── README.md                                 # Este arquivo
-```
 
 ### Dados de entrada (não incluídos no repositório)
 
